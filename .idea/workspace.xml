@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d32814c-c11d-4b43-89e6-560d1ce5da67" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Alert.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ExpenseForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ExpenseItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ExpenseList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +81,7 @@
       <workItem from="1570280869306" duration="1760000" />
       <workItem from="1570283332235" duration="240000" />
       <workItem from="1570283983432" duration="4508000" />
-      <workItem from="1570306243042" duration="4594000" />
+      <workItem from="1570306243042" duration="5529000" />
     </task>
     <servers />
   </component>
